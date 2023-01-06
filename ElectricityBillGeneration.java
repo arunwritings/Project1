@@ -1,4 +1,4 @@
-import java.util.*;  
+import java.util.Scanner;  
    
 //create simple class to Calculate Bill  
 class Billing
